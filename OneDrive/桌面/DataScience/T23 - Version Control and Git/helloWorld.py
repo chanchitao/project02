@@ -6,3 +6,8 @@ print('Enter your mobile no.')
 mobileNo = input() 
 print('Enter your post code.')
 postcode = input() 
+print('Enter your City.')
+City = input() 
+## Input Address 
+print('Enter your Address.')
+Address = input() 
